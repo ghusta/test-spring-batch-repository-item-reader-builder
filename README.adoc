@@ -1,0 +1,5 @@
+= Testing issue with Spring Batch 4/5
+
+== Context
+
+Test for this issue : https://stackoverflow.com/questions/75080484/why-is-repositoryitemreaderbuilder-stricter-than-creating-a-bean-repositoryitemr[Why is RepositoryItemReaderBuilder stricter than creating a bean RepositoryItemReader]
